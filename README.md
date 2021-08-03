@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @FranciscoPalacio10
-- 👀 I’m interested in 
+- 
+- 👀 I’m interested in:
+
 ✔ Backend Programming.
 ✔ Machine Learning.  
 ✔ Data Analysis.
-- 📫 How to reach me ...
+
+
+- 📫 How to reach me:
 ✔ franciscoadrianpalacio@gmail.com
 
 <!---
